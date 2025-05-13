@@ -1,4 +1,4 @@
-## Linear Transformations: Module 4 - Transformations
+### Linear Transformations: Module 4 - Transformations
 
 ![output](transformations.png)
 
